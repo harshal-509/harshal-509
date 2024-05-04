@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Harshal Sharma</h1>
-<h3 align="center">A passionate flutter developer</h3>
+<h3 align="center">A passionate Full Stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshal-509&label=Profile%20views&color=0e75b6&style=flat" alt="harshal-509" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshal-509" alt="harshal-509" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **Open source contribution**
 
 - 📫 How to reach me **sharma.harshal509@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1ehIqPAfdrTlGRaIMPxuUyu_9PpjogFRC/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1p5OrlaOj17-XwVFMt4kWD5HIE-1j339t/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
